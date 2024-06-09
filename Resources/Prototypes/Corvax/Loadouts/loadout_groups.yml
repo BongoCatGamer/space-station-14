@@ -13,3 +13,51 @@
   - PsychologistSatchel
   - PsychologistDuffel
 
+# Security
+- type: loadoutGroup
+  id: BrigmedicHead
+  name: loadout-group-brigmedic-head
+  minLimit: 0
+  loadouts:
+  - BrigmedicBeret
+  - BrigmedicBeretWhite
+  - BrigmedicHelmet
+
+- type: loadoutGroup
+  id: BrigmedicMask
+  name: loadout-group-brigmedic-mask
+  minLimit: 0
+  loadouts:
+  - SterileMask
+  - BrigmedicMedSecMask
+  - SecurityGasMask
+
+- type: loadoutGroup
+  id: BrigmedicJumpsuit
+  name: loadout-group-brigmedic-jumpsuit
+  loadouts:
+  - BrigmedicJumpsuit
+  - BrigmedicJumpskirt
+
+- type: loadoutGroup
+  id: BrigmedicBackpack
+  name: loadout-group-brigmedic-backpack
+  loadouts:
+  - BrigmedicBackpack
+  - BrigmedicSatchel
+  - BrigmedicDuffel
+  
+- type: loadoutGroup
+  id: BrigmedicOuterClothing
+  name: loadout-group-brigmedic-outerclothing
+  loadonts:
+  - BrigmedicVest
+  - BrigmedicCoatLab
+  - BrigmedicArmorVest
+  - BrigmedicOuterCoatAMG
+
+- type: loadoutGroup
+  id: BrigmedicShoes
+  name: loadout-group-brigmedic-shoes
+  loadonts:
+  - CombatBoots
