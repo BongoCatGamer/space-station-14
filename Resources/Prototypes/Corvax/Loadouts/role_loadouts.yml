@@ -6,3 +6,15 @@
   - CommonBackpack
   - Trinkets
   - Inventory # Corvax-Loadouts
+
+- type: roleLoadout
+  id: JobBrigmedic
+  groups:
+  - BrigmedicHead
+  - BrigmedicMask
+  - BrigmedicJumpsuit
+  - BrigmedicBackpack
+  - BrigmedicOuterClothing
+  - BrigmedicShoes
+  - Trinkets
+  - Inventory # Corvax-Loadouts
